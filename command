@@ -15,3 +15,6 @@ $ Github:
 . git clone https://github.com/[user account]/name.git
 . git push -u origin master
 . git remove -v : check position
+
+
+test
